@@ -1,0 +1,14 @@
+.info {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: $grid-gutter * 2 $grid-gutter / 2;
+
+  h3 {
+    margin-top: $grid-gutter;
+    margin-bottom: $grid-gutter / 1.5;
+  }
+
+  hr {
+    margin-top: $grid-gutter;
+  }
+}

@@ -1,0 +1,7 @@
+<header>
+  {% if page.url contains "info" %}
+    <h4><a href="{{ site.url }}">HOME</a></h4>
+  {% else %}
+    <h4><a href="{{ site.url }}/info">INFO</a></h4>
+  {% endif %}
+</header>
