@@ -1,10 +1,12 @@
 ---
-title: Info
+title: About
 position: 1
-layout: info
+layout: about
 ---
 
-#### [email](mailto:contact@lloydstubber.com) / [instagram](https://www.instagram.com/lloydstubber){:target="_blank"}
+I like printed things.
+
+For more regular updates head to my [Instagram](https://www.instagram.com/lloydstubber){:target="\_blank"} and contact me via email [here](mailto:contact@lloydstubber.com).
 
 ### Exhibitions & Book Events
 
@@ -72,11 +74,9 @@ layout: info
 
 2009, Generation Y, Last Chance Studios, Perth AUS (solo)
 
-
 ### Awards & Competitions
 
 2013, Monster Children Photo Annual Competition, B&W winner
-
 
 ### Artist Publications
 
@@ -99,7 +99,6 @@ layout: info
 2010, Scram, self-published
 
 2009, Generation Y, self-published (out of print)
-
 
 ### Published Work
 
@@ -156,7 +155,6 @@ layout: info
 2009, Pravda Magazine, Rokenrolas Issue
 
 2009, Staple Magazine, Issue 1/2/3/6/7/8
-
 
 ### Collections
 

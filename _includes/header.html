@@ -1,7 +1,12 @@
 <header>
-  {% if page.url contains "info" %}
-    <h4><a href="{{ site.url }}">HOME</a></h4>
-  {% else %}
-    <h4><a href="{{ site.url }}/info">INFO</a></h4>
-  {% endif %}
+  <nav>
+    <h4 class="menu">
+      {% if page.url contains "about" %}
+      <a href="{{ site.url }}">Home</a>
+      {% else %}
+      <a href="{{ site.url }}/about">About</a>
+      {% endif %}
+    </h4>
+    <h4 class="logo">LL</h4>
+  </nav>
 </header>

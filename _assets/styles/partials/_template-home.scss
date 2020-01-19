@@ -1,30 +1,28 @@
 .home {
   height: 100vh;
+  width: 100%;
 
   .gallery-wrapper {
     margin: 0 auto;
-    display: block;
+    width: 90vw;
+    display: flex;
+    align-items: center;
     position: absolute;
-    padding: 0 $grid-gutter / 2;
-    width: calc(100% - 30px);
+    padding: $grid-gutter / 2;
     z-index: 666;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 
     figure {
-      margin: 0 auto $grid-gutter * 3;
-
-      &:first-child {
-        margin-top: $grid-gutter * 2;
-      }
-      &:last-child {
-        margin-bottom: $grid-gutter;
-      }
+      margin: 0 auto;
     }
 
     img {
       max-width: 100%;
       width: auto;
       height: auto;
-      max-height: 90vh;
+      max-height: 85vh;
       display: block;
     }
   }

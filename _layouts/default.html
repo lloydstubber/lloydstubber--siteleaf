@@ -1,18 +1,14 @@
-{% include head.html %}
-{% include header.html %}
-    <div class="floating-bg">
-      <h1>LL</h1>
-    </div>
+{% include head.html %} {% include header.html %}
 
-    <main class="page-content home" aria-label="Content">
-      <div class="gallery-wrapper">
-        {% for figure in page.home_images %}
-        <figure>
-            <img src="{{ figure.img }}">
-            <p>{{ figure.caption }}</p>
-          </figure>
-        {% endfor %}
-      </div>
-    </main>
+<main class="page-content home" aria-label="Content">
+  <div class="gallery-wrapper">
+    {% for figure in page.home_images %}
+    <figure>
+      <img src="{{ figure.img }}" />
+      <span class="caption">{{ figure.caption }}</span>
+    </figure>
+    {% endfor %}
+  </div>
+</main>
 
 {% include footer.html %}
