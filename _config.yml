@@ -8,23 +8,22 @@ collections:
   uploads:
     title: Uploads
     output: true
-author:
-email:
-description: "I like printed things."
-
+author: 
+email: 
+description: I like printed things.
 permalink: pretty
 exclude:
-  - Gemfile.lock
-  - Gemfile
-  - README*
-  - node_modules
-  - ".gitignore"
-  - assets/scripts/src
-  - yarn.lock
-  - ".git"
-  - package.json
-  - package-lock.json
-facebook_url:
-insta_url:
+- Gemfile.lock
+- Gemfile
+- README*
+- node_modules
+- ".gitignore"
+- assets/scripts/src
+- yarn.lock
+- ".git"
+- package.json
+- package-lock.json
+facebook_url: 
+insta_url: 
 whitelist:
-  - jekyll-redirect-from
+- jekyll-redirect-from
