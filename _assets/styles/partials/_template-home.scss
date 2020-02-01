@@ -11,6 +11,11 @@
     height: 100vh;
     align-content: center;
 
+    @media (max-width: 700px) {
+      height: 100%;
+      width: auto;
+    }
+
     figure {
       margin: 0 auto;
     }

@@ -4,7 +4,7 @@ position: 0
 layout: default
 home_images:
   - figure:
-    img: "/uploads/untitled.jpg"
+    img: "https://res.cloudinary.com/squareyes/image/upload/q_auto/v1580517393/untitled_qdryl3.jpg"
     caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
 ---
 
