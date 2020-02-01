@@ -1,16 +1,16 @@
 ---
 title: Home
 position: 0
-layout: default
 home_images:
 - figure: 
   img: https://res.cloudinary.com/squareyes/image/upload/q_auto/v1580517393/untitled_qdryl3.jpg
   caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
+layout: default
 ---
 
 ## I'm Lloyd Stubber and I like printed things.
 
-This website is currently in the middle of an overhaul. For more regular updates head to my [Instagram](https://www.instagram.com/lloydstubber){:target="\_blank"}, contact me via email [here](mailto:contact@lloydstubber.com) and view my CV below.
+This website is currently in the middle of an overhaul. For more regular updates head to my [Instagram](https://www.instagram.com/lloydstubber){:target="\_blank"}, contact me via email [here](mailto:contact@lloydstubber.com) or view my CV below.
 
 ## Exhibitions & Book Events
 
