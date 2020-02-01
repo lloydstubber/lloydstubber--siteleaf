@@ -3,9 +3,9 @@ title: Home
 position: 0
 layout: default
 home_images:
-  - figure:
-    img: "/uploads/untitled.jpg"
-    caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
+- figure: 
+  img: "/uploads/untitled.jpg"
+  caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
 ---
 
 ## I'm Lloyd Stubber and I like printed things.
