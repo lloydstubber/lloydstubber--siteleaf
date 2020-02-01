@@ -1,0 +1,26 @@
+.home {
+  height: auto;
+  width: 100%;
+
+  .gallery-wrapper {
+    margin: 0 auto;
+    width: 90vw;
+    display: flex;
+    align-items: center;
+    padding: $grid-gutter / 2;
+    height: 100vh;
+    align-content: center;
+
+    figure {
+      margin: 0 auto;
+    }
+
+    img {
+      max-width: 100%;
+      width: auto;
+      height: auto;
+      max-height: 85vh;
+      display: block;
+    }
+  }
+}
