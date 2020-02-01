@@ -5,9 +5,13 @@
     {% for figure in page.home_images %}
     <figure>
       <img src="{{ figure.img }}" />
-      <span class="caption">{{ figure.caption }}</span>
+      <span class="caption">{{ figure.caption | markdownify }}</span>
     </figure>
     {% endfor %}
+  </div>
+
+  <div class="cv">
+    {{ content }}
   </div>
 </main>
 
