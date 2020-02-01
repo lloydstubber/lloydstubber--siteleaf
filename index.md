@@ -3,9 +3,9 @@ title: Home
 position: 0
 layout: default
 home_images:
-  - figure:
-    img: "https://res.cloudinary.com/squareyes/image/upload/q_auto/v1580517393/untitled_qdryl3.jpg"
-    caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
+- figure: 
+  img: https://res.cloudinary.com/squareyes/image/upload/q_auto/v1580517393/untitled_qdryl3.jpg
+  caption: _Rachel, 2017 - excerpt from Untitled (Vol. 1)_
 ---
 
 ## I'm Lloyd Stubber and I like printed things.
