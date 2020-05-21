@@ -90,21 +90,19 @@ Day Job, published by Bloom Publishing, 2019
 
 Untitled (Vol. 1), published by Bloom Publishing, 2018
 
-Boneless, published by Bloom Publishing, 2017
+Boneless (out of print), published by Bloom Publishing, 2017
 
 Fossil Fuels, co-published by Bloom Publishing and Perimeter Editions, 2015
 
-Fossil Fuels, co-published by Bloom Publishing and Perimeter Editions, 2015
+Zeal (out of print), self-published, 2013
 
-Zeal, self-published (out of print), 2013
+Colourblind (out of print), self-published, 2013
 
-Colourblind, self-published (out of print), 2013
+Deadset (out of print), self-published, 2012
 
-Deadset, self-published (out of print), 2012
+Scram (out of print), self-published, 2010
 
-Scram, self-published, 2010
-
-Generation Y, self-published (out of print), 2009
+Generation Y (out of print), self-published, 2009
 
 ## Published Work
 
